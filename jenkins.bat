@@ -1,3 +1,1 @@
-node -v
-npm i
-npm start
+npm i && npm start
